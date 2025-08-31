@@ -85,7 +85,7 @@
         {
           default = pkgs.mkShell {
             packages = [
-              self.packages.${pkgs.system}.R
+              self.packages.${system}.R
               pkgs.curl
             ];
             shellHook = ''

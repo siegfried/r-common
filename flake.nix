@@ -69,6 +69,7 @@
               vip
               devtools
               languageserver
+              styler
             ]);
           };
         in

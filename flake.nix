@@ -67,6 +67,7 @@
               textrecipes
               glmnet
               vip
+              PerformanceAnalytics
               devtools
               languageserver
               styler

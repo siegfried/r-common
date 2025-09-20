@@ -67,7 +67,8 @@
               textrecipes
               glmnet
               vip
-              PerformanceAnalytics
+              rBayesianOptimization
+              lhs
               devtools
               languageserver
               styler

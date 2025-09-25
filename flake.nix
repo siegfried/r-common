@@ -50,6 +50,7 @@
               tidyr
               stringr
               purrr
+              furrr
               workflows
               ranger
               tune

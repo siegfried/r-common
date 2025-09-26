@@ -70,6 +70,7 @@
               vip
               rBayesianOptimization
               lhs
+              GA
               devtools
               languageserver
               styler

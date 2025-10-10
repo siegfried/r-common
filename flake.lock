@@ -25,11 +25,11 @@
     "traderrr": {
       "flake": false,
       "locked": {
-        "lastModified": 1759821511,
-        "narHash": "sha256-pnMFFYu3mFAzw7tv7tAlu6gsNx1vx+yojkhOUPF2aG8=",
+        "lastModified": 1760094029,
+        "narHash": "sha256-GHDTmr5Wzj4DjUqYqF8c9qMkkRqYatGLmizwuK/E2Uc=",
         "owner": "siegfried",
         "repo": "traderrr",
-        "rev": "3826a9f943c35bb0c043da4c3239da9c7bf00673",
+        "rev": "f65b0b45dd48c89bd4c53dca3ed837db59d4c7c9",
         "type": "github"
       },
       "original": {

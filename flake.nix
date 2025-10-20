@@ -58,6 +58,7 @@
               recipes
               dials
               parsnip
+              rsample
               butcher
               optparse
               hardhat

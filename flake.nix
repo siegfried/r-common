@@ -74,7 +74,7 @@
               GA
               devtools
               languageserver
-              styler
+              PerformanceAnalytics
             ]);
           };
         in

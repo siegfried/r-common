@@ -81,7 +81,7 @@
         {
           inherit R;
 
-          default = self.packages.${pkgs.system}.R;
+          default = self.packages.${pkgs.stdenv.hostPlatform.system}.R;
         }
       );
 
